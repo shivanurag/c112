@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(145, 204, 255);
+    font-family: 'Luckiest Guy';
+}
+#heading
+{
+    letter-spacing:5px;
+    background-color: rgb(244, 130, 140);
+    border-radius:10px;
+    width:400;
+    height:100;
+}
+label
+{
+    border-radius:10px;
+    background-color: rgb(244, 130, 140);
+    font-size:25px;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
